@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+.idea/
+uploads
+*.iml
+.env
+./.env
+./build.sh
